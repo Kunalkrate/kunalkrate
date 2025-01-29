@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkrate&label=Profile%20views&color=0e75b6&style=flat" alt="kunalkrate" /> </p>
 
-- 🌱 I’m currently learning **ReactJs ,Android Studio , Java Swing**
+- 🌱 I’m currently learning **Python ,Java , Spring Boot, Django**
 
-- 💬 Ask me about **react , swing , android**
+- 💬 Ask me about **Backend Development**
 
 - 📫 How to reach me **kunalkrate1973@gmail.com**
 
