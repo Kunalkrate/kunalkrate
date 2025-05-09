@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkrate&label=Profile%20views&color=0e75b6&style=flat" alt="kunalkrate" /> </p>
 
-- 🌱 I’m currently learning **Python ,Java , Spring Boot, Django**
+- 🌱 I’m currently learning ** Java , Spring Boot , MERN Stack **
 
 - 💬 Ask me about **Backend Development**
 
